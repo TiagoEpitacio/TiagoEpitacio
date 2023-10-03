@@ -5,5 +5,3 @@
 🛠️ Tecnologias: Java | C# | JavaScript | Selenium WebDriver | Cypress | K6 | Appium | RestAssured | Cucumber | Postman | Insomnia | Git | CI/CD | Device Farm | Docker | AWS | ETL | DataLake
 
 📩 Vamos conversar sobre como posso contribuir para a qualidade e o sucesso de sua equipe? Entre em contato comigo aqui no LinkedIn ou pelo e-mail: Tiagoepitaciodejesus@hotmail.com.
-
-#AnalistaDeTestes #AutomatizadorDeTestes #QAEngineer #TestesAutomatizados #ETL #QualidadeDeSoftware #DesenvolvimentoÁgil #AWS #CI/CD
